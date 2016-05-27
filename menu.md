@@ -26,7 +26,7 @@
 			4.1.3 函数基本操作<br />
 		4.2 方法<br />
 		4.3 内建函数<br />
-		4.4 方法method<br />
+		[4.4 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
 	5）基本语句<br />
 		5.1 代码块和作用域<br />
 		5.2 if语句<br />
