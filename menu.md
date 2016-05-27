@@ -8,7 +8,7 @@
 			2.1.2 Linux <br />
 			2.1.3 Mac<br />
 		2.2 IDE<br />
-		2.3 Hello World<br />
+		[2.3 Hello World](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.3.md)<br />
 	3）数据类型
 		3.1 标识符<br />
 		3.2 基本类型<br />
