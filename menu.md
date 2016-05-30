@@ -11,7 +11,7 @@
 &nbsp;&nbsp;2.2 IDE<br />
 &nbsp;&nbsp;[2.3 Hello World](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.3.md)<br />
 ####3）数据类型
-&nbsp;&nbsp;[3.1 标识符](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.1.md)<br />
+&nbsp;&nbsp;[3.1 标识符](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.1.md) <br />
 &nbsp;&nbsp;3.2 基本类型<br />
 &nbsp;&nbsp;3.3 运算符<br />
 &nbsp;&nbsp;3.4 数组<br />
