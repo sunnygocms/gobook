@@ -2,7 +2,7 @@
 ##一、Go语言基础<br />
 ####1）[Go语言简介](https://github.com/sunnygocms/gobook/blob/master/01.md)<br />
 &nbsp;&nbsp;[1.1 语言特点](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/01.1.md)<br />
-&nbsp;&nbsp;1.2 怎样学习Go<br />
+&nbsp;&nbsp;[1.2 学好Go的注意事项](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/01.2.md)<br />
 ####2）Go语言环境搭建<br />
 &nbsp;&nbsp;2.1 安装和设置 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 Windows<br />

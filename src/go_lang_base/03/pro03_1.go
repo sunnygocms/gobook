@@ -2,6 +2,7 @@ package main //package名称，主运行的package名规定为main
 //包引入区
 import (
 	"fmt"
+	"time"
 )
 
 //主函数
@@ -10,4 +11,5 @@ func main() {
 	fmt.Println(消息) //个人不建议这种形式的变量名
 	string := 1     //个人不建议使用预定义标识符作为变量名称
 	fmt.Println(string)
+	fmt.Println(time.Now().Format("2006-01-02 15:04:05"))
 }
