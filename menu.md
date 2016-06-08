@@ -22,22 +22,21 @@
 &nbsp;&nbsp;3.8 Map字典<br />
 &nbsp;&nbsp;3.9 Channel通道<br />
 ####4）函数与方法<br />
-&nbsp;&nbsp;4.1 函数<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.1 基本写法<br />
+&nbsp;&nbsp;[4.1 函数]](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.md)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1.1 基本写法]](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.1.md)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.2 特殊写法<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.3 函数基本操作<br />
-&nbsp;&nbsp;4.2 方法<br />
+&nbsp;&nbsp;[4.2 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
 &nbsp;&nbsp;4.3 内建函数<br />
-&nbsp;&nbsp;[4.4 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
 ####5）基本语句<br />
 &nbsp;&nbsp;5.1 代码块和作用域<br />
 &nbsp;&nbsp;5.2 if语句<br />
 &nbsp;&nbsp;5.3 for语句<br />
 &nbsp;&nbsp;5.4 range语句<br />
 &nbsp;&nbsp;5.5 switch语句<br />
-&nbsp;&nbsp;5.6 goto语句
-&nbsp;&nbsp;5.7 select语句
-&nbsp;&nbsp;5.8 defer语句
+&nbsp;&nbsp;5.6 goto语句<br />
+&nbsp;&nbsp;5.7 select语句<br />
+&nbsp;&nbsp;5.8 defer语句<br />
 		
 ##二、Beego基础<br />
 	
