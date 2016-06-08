@@ -58,3 +58,7 @@ func Fun5(s1 string, s2 string, s ...string) (string, error) {
 
 	return result, nil
 }
+
+func Fun6() { //同目录层中不需要import，可以直接用方法名调用
+	fmt.Println(sunnyAdd(2, 3))
+}

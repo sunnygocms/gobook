@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./sunny"
+	"./sunny" //引入sunny.go
 )
 
 func main() {
@@ -30,4 +30,6 @@ func main() {
 	} else {
 		fmt.Println(msg)
 	}
+
+	sunny.Fun6()
 }
