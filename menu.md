@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.2 特殊写法<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.3 函数基本操作<br />
 &nbsp;&nbsp;[4.2 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
-&nbsp;&nbsp;4.3 内建函数<br />
+&nbsp;&nbsp;[4.3 内置函数（built-in function）](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.3.md)<br />
 ####5）基本语句<br />
 &nbsp;&nbsp;5.1 代码块和作用域<br />
 &nbsp;&nbsp;5.2 if语句<br />
