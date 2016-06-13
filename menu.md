@@ -24,8 +24,7 @@
 ####4）函数与方法<br />
 &nbsp;&nbsp;[4.1 函数](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.md)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1.1 基本写法](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.1.md)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.2 特殊写法<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.3 函数基本操作<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1.2 匿名函数(lambda函数)](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.2.md)<br />
 &nbsp;&nbsp;[4.2 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.2.md)<br />
 &nbsp;&nbsp;[4.3 内置函数（built-in function）](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.3.md)<br />
 &nbsp;&nbsp;[4.4 defer](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
