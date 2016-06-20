@@ -18,8 +18,8 @@
 &nbsp;&nbsp;[3.4 数组](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.4.md)<br />
 &nbsp;&nbsp;[3.5 Slice切片](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.5.md)<br />
 &nbsp;&nbsp;[3.6 Map字典](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.6.md)<br />
-&nbsp;&nbsp;3.7 结构体<br />
-&nbsp;&nbsp;3.8 Interface接口<br />
+&nbsp;&nbsp;[3.7 结构体类型struct](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.7.md)<br />
+&nbsp;&nbsp;[3.8 Interface接口](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.8.md)<br />
 &nbsp;&nbsp;3.9 Channel通道<br />
 ####4）函数与方法<br />
 &nbsp;&nbsp;[4.1 函数](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.md)<br />
