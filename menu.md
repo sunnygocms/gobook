@@ -28,9 +28,9 @@
 &nbsp;&nbsp;[4.2 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.2.md)<br />
 &nbsp;&nbsp;[4.3 内置函数（built-in function）](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.3.md)<br />
 &nbsp;&nbsp;[4.4 defer](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
-####5）基本语句<br />
-&nbsp;&nbsp;5.1 代码块和作用域<br />
-&nbsp;&nbsp;5.2 if语句<br />
+####5）[基本语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.md)<br />
+&nbsp;&nbsp;[5.1 代码块和作用域](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.1.md)<br />
+&nbsp;&nbsp;[5.2 if语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.2.md)<br />
 &nbsp;&nbsp;5.3 for语句<br />
 &nbsp;&nbsp;5.4 range语句<br />
 &nbsp;&nbsp;5.5 switch语句<br />

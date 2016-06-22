@@ -22,13 +22,13 @@ func (this Circle) Area() float64 {
 
 //矩形定义
 type Rectangle struct {
-	length  float64
-	breadth float64
+	length float64
+	width  float64
 }
 
 //矩形面积计算
 func (this Rectangle) Area() float64 {
-	return this.length * this.breadth
+	return this.length * this.width
 }
 func main() {
 	var circle Circle
