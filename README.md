@@ -18,22 +18,22 @@
 &nbsp;&nbsp;[3.1 标识符](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.1.md) <br />
 &nbsp;&nbsp;[3.2 基本类型](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.2.md)<br />
 &nbsp;&nbsp;[3.3 运算符](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.3.md)<br />
-&nbsp;&nbsp;3.4 数组<br />
-&nbsp;&nbsp;3.5 结构体<br />
-&nbsp;&nbsp;3.6 Interface接口<br />
-&nbsp;&nbsp;3.7 Slice切片<br />
-&nbsp;&nbsp;3.8 Map字典<br />
-&nbsp;&nbsp;3.9 Channel通道<br />
+&nbsp;&nbsp;[3.4 数组](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.4.md)<br />
+&nbsp;&nbsp;[3.5 Slice切片](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.5.md)<br />
+&nbsp;&nbsp;[3.6 Map字典](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.6.md)<br />
+&nbsp;&nbsp;[3.7 结构体类型struct](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.7.md)<br />
+&nbsp;&nbsp;[3.8 Interface接口](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.8.md)<br />
+&nbsp;&nbsp;[3.9 Channel通道](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.9.md)<br />
 ####4）函数与方法<br />
 &nbsp;&nbsp;[4.1 函数](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.md)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1.1 基本写法](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.1.md)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.2 特殊写法<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1.3 函数基本操作<br />
-&nbsp;&nbsp;[4.2 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
-&nbsp;&nbsp;4.3 内建函数<br />
-####5）基本语句<br />
-&nbsp;&nbsp;5.1 代码块和作用域<br />
-&nbsp;&nbsp;5.2 if语句<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1.2 匿名函数(lambda表达式)](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.2.md)<br />
+&nbsp;&nbsp;[4.2 方法method](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.2.md)<br />
+&nbsp;&nbsp;[4.3 内置函数（built-in function）](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.3.md)<br />
+&nbsp;&nbsp;[4.4 defer](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.4.md)<br />
+####5）[基本语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.md)<br />
+&nbsp;&nbsp;[5.1 代码块和作用域](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.1.md)<br />
+&nbsp;&nbsp;[5.2 if语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.2.md)<br />
 &nbsp;&nbsp;5.3 for语句<br />
 &nbsp;&nbsp;5.4 range语句<br />
 &nbsp;&nbsp;5.5 switch语句<br />
