@@ -39,5 +39,6 @@
 &nbsp;&nbsp;5.8 defer语句<br />
 		
 ##二、Beego基础<br />
-	
+&nbsp;&nbsp;[如何传递checkbox数组](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/20.0.1.md)
+&nbsp;&nbsp;[model的struct必须有一个pk](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/20.0.2.md)
 ##三、网络实战<br />
