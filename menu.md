@@ -32,10 +32,10 @@
 &nbsp;&nbsp;[5.1 代码块和作用域](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.1.md)<br />
 &nbsp;&nbsp;[5.2 if语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.2.md)<br />
 &nbsp;&nbsp;[5.3 for语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.3.md)<br />
-&nbsp;&nbsp;5.4 switch语句<br />
-&nbsp;&nbsp;5.5 goto语句<br />
-&nbsp;&nbsp;5.6 select语句<br />
-&nbsp;&nbsp;5.7 defer语句<br />
+&nbsp;&nbsp;[5.4 switch语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.4.md)<br />
+&nbsp;&nbsp;[5.5 goto语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.5.md)<br />
+&nbsp;&nbsp;[5.6 select语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.6.md)<br />
+
 		
 ##二、Beego基础<br />
 &nbsp;&nbsp;[如何传递checkbox数组](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/20.0.1.md)<br />
