@@ -7,11 +7,8 @@
 &nbsp;&nbsp;[1.1 语言特点](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/01.1.md)<br />
 &nbsp;&nbsp;[1.2 学好Go的注意事项](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/01.2.md)<br />
 ####2）初识Go<br />
-&nbsp;&nbsp;2.1 安装和设置 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 Windows<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 Linux <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3 Mac<br />
-&nbsp;&nbsp;2.2 IDE<br />
+&nbsp;&nbsp;[2.1 安装和设置](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.1.md) <br />
+&nbsp;&nbsp;[2.2 IDE](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.2.md)<br />
 &nbsp;&nbsp;[2.3 Hello World](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.3.md)<br />
 &nbsp;&nbsp;[2.4 flag包的使用详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.4.md)
 ####3）数据类型
