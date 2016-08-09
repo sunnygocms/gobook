@@ -18,6 +18,7 @@
 &nbsp;&nbsp;[3.7 结构体类型struct](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.7.md)<br />
 &nbsp;&nbsp;[3.8 Interface接口](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.8.md)<br />
 &nbsp;&nbsp;[3.9 Channel通道](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.9.md)<br />
+&nbsp;&nbsp;[3.10 字符串操作](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.10.md)<br />
 ####4）函数与方法<br />
 &nbsp;&nbsp;[4.1 函数](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.md)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1.1 基本写法](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/04.1.1.md)<br />
