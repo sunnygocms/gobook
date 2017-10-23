@@ -7,6 +7,7 @@
 &nbsp;&nbsp;[2.2 IDE](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.2.md)<br />
 &nbsp;&nbsp;[2.3 Hello World](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.3.md)<br />
 &nbsp;&nbsp;[2.4 flag包的使用详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.4.md)
+&nbsp;&nbsp;[2.5 Go命令](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/02.5.md)
 #### 3）数据类型
 &nbsp;&nbsp;[3.1 标识符](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.1.md) <br />
 &nbsp;&nbsp;[3.2 基本类型](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/03.2.md)<br />
