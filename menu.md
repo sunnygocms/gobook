@@ -1,5 +1,4 @@
-
-一、Go语言基础
+#一、Go语言基础
 1）Go语言简介
 &nbsp;&nbsp;[1.0 Go语言简介](https://github.com/sunnygocms/gobook/blob/master/01.md) <br/>
 &nbsp;&nbsp;[1.1 语言特点](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/01.1.md)<br />
