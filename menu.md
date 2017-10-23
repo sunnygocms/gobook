@@ -34,7 +34,7 @@
 &nbsp;&nbsp;[5.6 select语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.6.md)<br />
 
 		
-## 二、Beego基础<
+## 二、Beego基础
 &nbsp;&nbsp;[如何传递checkbox数组](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/20.0.1.md)<br />
 &nbsp;&nbsp;[model的struct必须有一个pk](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/20.0.2.md)<br />
 ## 三、网络实战
