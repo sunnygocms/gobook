@@ -1,6 +1,9 @@
 # 驾驭Go--语言基础与网络开发
 ## 前言
   今天是我41岁生日，我决定写一本书献给我的家人和自己。我选择了最近正在做的一个[开源项目](https://github.com/sunnygocms/managementCMS).<br />希望我最终能够完成。如果最后可以出书，就完美了。
+
+![golang](./go_lang_base/golang.jpg)
+
 ## 提纲
 ## 一、Go语言基础 
 #### 1）[Go语言简介](https://github.com/sunnygocms/gobook/blob/master/01.md) 
