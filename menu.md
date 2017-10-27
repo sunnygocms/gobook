@@ -40,3 +40,6 @@
 &nbsp;&nbsp;[如何传递checkbox数组](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/20.0.1.md)<br />
 &nbsp;&nbsp;[model的struct必须有一个pk](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/20.0.2.md)<br />
 ## 三、网络实战
+
+## 附件
+&nbsp;&nbsp;[git里面的emojis](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/git_emoji.md)
