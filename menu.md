@@ -38,6 +38,7 @@
 		
 ## 二、Beego基础
 &nbsp;&nbsp;[Beego初步](https://github.com/sunnygocms/gobook/blob/master/beego_base/01.1.md)<br />
+&nbsp;&nbsp;[Beego 的架构](https://github.com/sunnygocms/gobook/blob/master/beego_base/01.2.md)<br />
 &nbsp;&nbsp;[如何传递checkbox数组](https://github.com/sunnygocms/gobook/blob/master/beego_base/20.0.1.md)<br />
 &nbsp;&nbsp;[model的struct必须有一个pk](https://github.com/sunnygocms/gobook/blob/master/beego_base/20.0.2.md)<br />
 ## 三、网络实战
