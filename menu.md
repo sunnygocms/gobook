@@ -35,6 +35,8 @@
 &nbsp;&nbsp;[5.5 goto语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.5.md)<br />
 &nbsp;&nbsp;[5.6 select语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.6.md)<br />
 
+#### 9)[Go难点]
+&nbsp;&nbsp;[9.1 不得不知道的golang知识点之nil](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.md)<br />
 		
 ## 二、Beego基础
 &nbsp;&nbsp;[Beego初步](https://github.com/sunnygocms/gobook/blob/master/beego_base/01.1.md)<br />
