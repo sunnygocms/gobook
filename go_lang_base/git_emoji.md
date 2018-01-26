@@ -7,6 +7,7 @@
 | :pencil: | `:pencil:` | when **performing minor changes/fixing** the code or language <br />改变或修改代码或语言|
 | :racehorse: | `:racehorse:` | when improving **performance** <br />提升性能 |
 | :books: | `:books:` | when writing **docs** <br />写文档|
+|:memo: (备忘录)|`:memo:`|when writing **docs** <br />写文档|
 | :bug: | `:bug:` | when reporting a **bug**, with `@FIXME` Comment Tag <br />报告代码增加解释标签|
 | :ambulance: | `:ambulance:` | when fixing a **bug** <br />修改bug|
 | :penguin: | `:penguin:` | when fixing something on **Linux** <br />修复 Linux 下的问题|
