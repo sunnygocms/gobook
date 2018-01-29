@@ -3,6 +3,7 @@
 | Emoji | Raw Emoji Code | Description |
 |:---:|:---:|---|
 | :art: | `:art:` | when improving the **format**/structure of the code <br />改进代码结构/代码格式 |
+| :alien: | `:alien:` | Updating code due to external API changes. <br />更改API |
 | :newspaper: | `:newspaper:` | when creating a **new file** <br />创建新文件 |
 | :pencil: | `:pencil:` | when **performing minor changes/fixing** the code or language <br />改变或修改代码或语言|
 | :racehorse: | `:racehorse:` | when improving **performance** <br />提升性能 |
@@ -17,6 +18,7 @@
 | :tractor: | `:tractor:` | when **change file structure**. Usually together with :art: <br />改变文件结构，经常配合:art:一起使用|
 | :hammer: | `:hammer:` | when **refactoring** code <br />重构代码|
 | :umbrella: | `:umbrella:` | when adding **tests** <br />增加测试|
+| :white_check_mark: | `:white_check_mark:` | when adding **tests** <br />增加测试|
 | :microscope: | `:microscope:` | when adding **code coverage** <br />增加代码覆盖范围|
 | :green_heart: | `:green_heart:` | when fixing the **CI** build <br />修复 CI构建问题|
 | :lock: | `:lock:` | when dealing with **security** <br />锁定状态 |
@@ -34,9 +36,11 @@
 | :ferris_wheel: | `:ferris_wheel:` | New **Release** with Python wheel package <br />新版本发行使用Python包|
 | :bookmark: | `:bookmark:` | Version **Tags** <br />版本标签|
 | :tada: | `:tada:` | **Initial** Commit <br />首次提交|
+| :ok_hand: | `:ok_hand:` | Updating code due to code review changes.<br />评审合格以后，更新代码。|
 | :speaker: | `:speaker:` | when Adding **Logging** <br />增加日志|
 | :mute: | `:mute:` | when Reducing **Logging** <br />减少日志|
 | :sparkles: | `:sparkles:` | when introducing **New** Features <br />引入新特性|
+| :page_facing_up: | `:page_facing_up:` | Adding or updating license. <br />添加/更新版本License。|
 | :zap: | `:zap:` | when introducing **Backward-InCompatible** Features, _maybe_ with `@CHANGED` Comment Tag<br /> 引入向后兼容特性|
 | :bulb: | `:bulb:` | New **Idea**, with `@IDEA` Comment Tag <br />新的想法idea|
 | :snowflake: | `:snowflake:` | changing **Configuration**, Usually together with :penguin: or :ribbon: or :rocket: <br />改变配置信息，通常跟随:penguin: 或者 :ribbon: 或者 :rocket:|
