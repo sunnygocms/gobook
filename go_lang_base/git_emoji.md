@@ -43,8 +43,10 @@
 | :page_facing_up: | `:page_facing_up:` | Adding or updating license. <br />添加/更新版本License。|
 | :zap: | `:zap:` | when introducing **Backward-InCompatible** Features, _maybe_ with `@CHANGED` Comment Tag<br /> 引入向后兼容特性|
 | :bulb: | `:bulb:` | New **Idea**, with `@IDEA` Comment Tag <br />新的想法idea|
-| :bento: | `:bento:` | Adding or updating assets.<br />添加或更新资源"|
+| :bento: | `:bento:` | Adding or updating assets.<br />添加或更新资源。|
 | :beers: | `:beers:` | Writing code drunkenly.<br />醉酒写代码。|
+| :building_construction: | `:building_construction:` | Making architectural changes.<br />架构调整。|
+| :busts_in_silhouette: | `:busts_in_silhouette:` | Add contributor(s).<br />添加贡献者。|
 | :snowflake: | `:snowflake:` | changing **Configuration**, Usually together with :penguin: or :ribbon: or :rocket: <br />改变配置信息，通常跟随:penguin: 或者 :ribbon: 或者 :rocket:|
 | :ribbon: | `:ribbon:` | Customer requested application **Customization**, with `@HACK` Comment Tag <br />客户请求的功能|
 | :rocket: | `:rocket:` | Anything related to Deployments/**DevOps** <br />任何和部署想关的DevOps |
