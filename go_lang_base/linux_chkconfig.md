@@ -63,3 +63,7 @@ chkconfig在没有参数运行时，显示用法。如果加上服务名，那�
 	    在chkconfig工具服务列表中增加此服务，此时服务会被在/etc/rc.d/rcN.d中赋予K/S入口了；
 	3.chkconfig --level 35 mysqld on
 	    修改服务的默认启动等级。
+        
+        
+## 链接
+- [目录](https://github.com/sunnygocms/gobook/blob/master/menu.md)        
