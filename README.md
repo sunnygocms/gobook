@@ -53,4 +53,8 @@
 ## 附件
 &nbsp;&nbsp;[git里面的emojis](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/git_emoji.md)<br />
 &nbsp;&nbsp;[Linux下chkconfig命令详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/linux_chkconfig.md)<br />
-&nbsp;&nbsp;[Linux下chkconfig命令详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/linux_systemctl.md)
+&nbsp;&nbsp;[Linux下chkconfig命令详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/linux_chkconfig.md)<br />
+&nbsp;&nbsp;[Linux下systemctl命令详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/linux_systemctl.md)<br />
+&nbsp;&nbsp;[Linux下统计代码行数](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/linux_wc.md)<br />
+&nbsp;&nbsp;[HTML状态码](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/html-status.md)<br />
+&nbsp;&nbsp;[Go 代码检查](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/Go-VET.md)
