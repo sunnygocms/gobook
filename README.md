@@ -57,4 +57,4 @@
 &nbsp;&nbsp;[Linux下systemctl命令详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/linux_systemctl.md)<br />
 &nbsp;&nbsp;[Linux下统计代码行数](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/linux_wc.md)<br />
 &nbsp;&nbsp;[HTML状态码](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/html-status.md)<br />
-&nbsp;&nbsp;[Go 代码检查](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/Go-VET.md)
+&nbsp;&nbsp;[Go 代码检查](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/Go_VET.md)
