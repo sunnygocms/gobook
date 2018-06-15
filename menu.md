@@ -34,8 +34,11 @@
 &nbsp;&nbsp;[5.4 switch语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.4.md)<br />
 &nbsp;&nbsp;[5.5 goto语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.5.md)<br />
 &nbsp;&nbsp;[5.6 select语句](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/05.6.md)<br />
-
-#### 9)[Go难点]
+#### 6)[面向对象](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/06.md) <br />
+&nbsp;&nbsp;[6.1 go的封装](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/06.1.md)<br />
+&nbsp;&nbsp;[6.2 go的继承](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/06.2.md)<br />
+&nbsp;&nbsp;[6. 3go的多态](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/06.3.md)<br />
+#### 9)Go难点
 &nbsp;&nbsp;[9.1 不得不知道的golang知识点之nil](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.1.md)<br />
 		
 ## 二、Beego基础
