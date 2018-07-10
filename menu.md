@@ -43,6 +43,8 @@
 Golang json用法详解
 &nbsp;&nbsp;[9.2 两个比较有趣的GO知识点](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.2.md)<br />
 &nbsp;&nbsp;[9.3 Golang json用法详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.3.md)<br />
+&nbsp;&nbsp;[9.4 Go exec用法](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.4.md)<br />
+
 		
 ## 二、Beego基础
 &nbsp;&nbsp;[Beego初步](https://github.com/sunnygocms/gobook/blob/master/beego_base/01.1.md)<br />
