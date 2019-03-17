@@ -62,6 +62,7 @@
  * 函数声明要有意义
  * 函数一定要写注解
  * 尽量使用github.com/sunnyregion/util/sunnyjson 来处理json字符串(这个我会持续关注最新的json技术，保持最快的json解析速度)，最低程度也是使用ffjson，一定不要使用encode/json.
+ * json转换的struct一定要最小颗粒话，不要struct里面嵌套struct。
  * 在controller里面尽量不要使用this.  c. 这个是不推荐的写法，要使用缩写，比如BaseController---> bc.
  * 一定注意struct里面的注释，**这个非常强调**，希望大家反复读一下这篇文章(https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.3.md)
  * **代码一定高内聚，低耦合。**
