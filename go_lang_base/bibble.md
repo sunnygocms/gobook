@@ -7,7 +7,8 @@
     为了减少这种可能的发生，我写下这篇文章，希望大家好好读读。
     
 ## 一、工欲善其事,必先利其器
-    我们开发代码会用到各种工具，这些就是我们手里的武器。
+
+	我们开发代码会用到各种工具，这些就是我们手里的武器。
     
 - IDE 
 
@@ -21,7 +22,6 @@
     还要学习一下GFM语法(https://www.zybuluo.com/techird/note/46064)
     
 -画脑图
-
 	推荐百度脑图(http://naotu.baidu.com)
 	
 - 画流程图工具
@@ -42,6 +42,7 @@
     一个是吕晓晶开发的工具
     
 ## 勿在浮沙建高塔
+
     go语言语法比较简单只有25个关键词，是我使用过的语言里面关键词最少的。甚至比SQL的关键词都少。
     但是go对程序员的素质要求是比较高的。目前全球使用什么编程语言开发需求最高——Golang。（https://www.oschina.net/news/104951/state-of-software-engineers-2019）
     go语言需要有多年的编程经验理解起来才会顺畅。尤其是要有面向对象的思想，虽然go是没有继承的，但是是使用组合实现了继承。
@@ -52,22 +53,25 @@
     另一个是https://github.com/sunnyregion/util 里面有很多基础的函数，包括字符串拼接、json处理、时间处理等。
 
 ## 谨慎能捕千秋蝉，小心驶得万年船
-	1）我们所有写的日志都要使用统一的函数实（doWritLogFile）
-	2）使用统一的返回格式：SunnyMsgStruct
-	3）使用统一的返回函数：SmsReturn
-	4）记住不论是在函数里面还是在数据库里面，都不要使用0,1来代表true，false，要使用bool型，在SQL里面使用enum('true','false');
-	5)函数声明要有意义
-	6）函数一定要写注解
-	7）尽量使用github.com/sunnyregion/util/sunnyjson 来处理json字符串(这个我会持续关注最新的json技术，保持最快的json解析速度)，最低程度也是使用ffjson，一定不要使用encode/json.
-	8)在controller里面尽量不要使用this.  c. 这个是不推荐的写法，要使用缩写，比如BaseController---> bc.
-	9）一定注意struct里面的注释，**这个非常强调**，希望大家反复读一下这篇文章(https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.3.md)
+
+ * 我们所有写的日志都要使用统一的函数实（doWritLogFile）
+ * 使用统一的返回格式：SunnyMsgStruct
+ * 使用统一的返回函数：SmsReturn
+ * 记住不论是在函数里面还是在数据库里面，都不要使用0,1来代表true，false，要使用bool型，在SQL里面使用enum('true','false');
+ * 函数声明要有意义
+ * 函数一定要写注解
+ * 尽量使用github.com/sunnyregion/util/sunnyjson 来处理json字符串(这个我会持续关注最新的json技术，保持最快的json解析速度)，最低程度也是使用ffjson，一定不要使用encode/json.
+ * 在controller里面尽量不要使用this.  c. 这个是不推荐的写法，要使用缩写，比如BaseController---> bc.
+ * 一定注意struct里面的注释，**这个非常强调**，希望大家反复读一下这篇文章(https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.3.md)
 
 ## 纸上得来终觉浅，绝知此事要躬行
+
     写了这些最后还是要落在实际的使用中，要敢于大胆尝试。各种技术都可以尝试，要勇于做前人没做过的事情。
     我们现在搞的人工智能本身就是前沿中的前沿。
     只有自己尝试过了才知道其中的滋味。
 	
 ## 黄沙百战穿金甲，不破楼兰誓不还
+
     我们的口号是：2025家庭保姆。这个口号最后的和客户交互部分是我们team实现的，我们在这个伟大的事业中贡献我们自己的力量。
     不积跬步无以至千里，我们就是那是翅膀的蝴蝶🦋，希望刮起龙卷风。
     只有对工作有着饱满的热情才可以开发出有质量的代码。
