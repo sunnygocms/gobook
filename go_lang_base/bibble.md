@@ -8,20 +8,36 @@
     
 ## 一、工欲善其事,必先利其器
     我们开发代码会用到各种工具，这些就是我们手里的武器。
+    
 - IDE 
-    go语言的IDE推荐LiteIDE、VS code、goland。
+
+	go语言的IDE推荐LiteIDE、VS code、goland。
+    
 - 文档工具
-    推荐使用Markdown书写文档，一般把文档放在工程的Document目录下，我们team的人要养成写文档的习惯。
+
+	推荐使用Markdown书写文档，一般把文档放在工程的Document目录下，我们team的人要养成写文档的习惯。
     随时写文档可以把当时的想法记录下来，一般过了一段时间就会忘记自己当时是怎么想的。
+    工具我推荐使用Remarkable，免费的，我现在写的这个文章就是使用的这个工具。这个工具可以很方便的把你的Markdown文档转换为html和pdf，便于和其他团队的交流。
+    还要学习一下GFM语法(https://www.zybuluo.com/techird/note/46064)
+    
+-画脑图
+
+	推荐百度脑图(http://naotu.baidu.com)
+	
 - 画流程图工具
+
     推荐使用draw.io网站，好处是图片资源丰富，操作简便，大家合作修改方便，随时可以修改（只要有网络和浏览器）。
 - json解析成struct工具
     推荐两个网站 
     https://transform.now.sh/json-to-go/ 这个网站比较强，javascript的json转换也包含。
     http://json2struct.mervine.net/
+    
 - 代码检测工具
+
     推荐使用刘浩开发的工具arthummer （https://github.com/sunnyregion/artHammer）
+    
 - 代码生成工具
+
     这个一个是使用beego自带的bee api apiproject
     一个是吕晓晶开发的工具
     
@@ -36,8 +52,15 @@
     另一个是https://github.com/sunnyregion/util 里面有很多基础的函数，包括字符串拼接、json处理、时间处理等。
 
 ## 谨慎能捕千秋蝉，小心驶得万年船
-	我们所有写的日志都要使用统一的函数实现
-	
+	1）我们所有写的日志都要使用统一的函数实（doWritLogFile）
+	2）使用统一的返回格式：SunnyMsgStruct
+	3）使用统一的返回函数：SmsReturn
+	4）记住不论是在函数里面还是在数据库里面，都不要使用0,1来代表true，false，要使用bool型，在SQL里面使用enum('true','false');
+	5)函数声明要有意义
+	6）函数一定要写注解
+	7）尽量使用github.com/sunnyregion/util/sunnyjson 来处理json字符串(这个我会持续关注最新的json技术，保持最快的json解析速度)，最低程度也是使用ffjson，一定不要使用encode/json.
+	8)在controller里面尽量不要使用this.  c. 这个是不推荐的写法，要使用缩写，比如BaseController---> bc.
+	9）一定注意struct里面的注释，**这个非常强调**，希望大家反复读一下这篇文章(https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.3.md)
 
 ## 纸上得来终觉浅，绝知此事要躬行
     写了这些最后还是要落在实际的使用中，要敢于大胆尝试。各种技术都可以尝试，要勇于做前人没做过的事情。
