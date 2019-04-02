@@ -9,6 +9,10 @@ int main(){
 	GoString name = {"1.jpg", 5};
 	show=IsOrientationZero(name);
 	printf("%d\n",show);
+	// 横着的
+	GoString name2 = {"2.jpg", 5};
+	show=IsOrientationZero(name2);
+	printf("%d\n",show);
 	return 0;
 }
 
