@@ -16,4 +16,4 @@ int main(){
 	return 0;
 }
 
-//gcc main.c -o test -I./ -L./ -lsunny
+//gcc main.c -o sunny.exe -I./ -L./ -lsunny -Wl,-rpath=.

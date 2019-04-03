@@ -55,7 +55,7 @@ extern "C" {
 
 // IsOrientationZero  是否是正向的照片
 // @Param fname string  文件名
-// @Return b bool
+// @Return b bool 返回1是true
 
 extern GoUint8 IsOrientationZero(GoString p0);
 
