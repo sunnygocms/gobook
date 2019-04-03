@@ -38,7 +38,7 @@ func IsOrientationZero(fname string) (b bool) {
     go build -x -v -ldflags "-s -w" -buildmode=c-shared -o libsunny.so main.go
 
 ### 生成 libsunny.h和libsunny.so
-
+### 特别注意  *** //export IsOrientationZero *** 没有这个export，有可能无法生成的头文件(.h)，还不会有任何报错。
 ### C语言调用
 
 ```c
@@ -61,3 +61,65 @@ int main(){
 ###  编译
 
     gcc main.c -o sunny.exe -I./ -L./ -lsunny
+
+
+### 在ubuntu下需要 把libsunny.so拷贝到/usr/lib中用于运行。在Mac下没有这个问题。
+
+### 解决方法
+
+### -添加环境变量。
+	
+	LD_LIBRARY_PATH=.
+	export LD_LIBRARY_PATH
+
+### -编译的时候添加参数
+
+	gcc main.c -o sunny.exe -I./ -L./ -lsunny -Wl,-rpath=.
+	
+### -写成makefile文件
+
+```Makefile
+#g++ compiler
+CC = gcc
+CCFLAGS = -I. -Wall -fmessage-length=0 -fPIC
+LDFLAGS = -Wl,-rpath,'./'
+
+#Debug or Release, Debug:-g Release:-O3
+ifdef GDB
+	OPTS = -g -rdynamic
+else
+	OPTS = -O2 -rdynamic
+endif
+
+#Link the .so or .a library
+LIBS = -L./ -lsunny
+
+#Target file
+TARGET = sunny.exe
+
+#Gernation the target file
+all:$(TARGET) 
+.PHONY : clean
+
+objects = main.o
+
+$(TARGET):$(objects)
+	$(CC) -o $@ $(objects) $(LIBS) $(LDFLAGS)
+
+%.o : %.c
+	$(CC) $(CFLAGS) $(OPTS) -c $<
+
+clean:
+	-rm -f $(objects) sunny.exe
+
+```
+
+### 检查
+	
+	ldd sunny.exe
+	
+### 看到 
+
+	libsunny.so => ./libsunny.so (0x00007fccc8751000)
+	
+### 就ok。
