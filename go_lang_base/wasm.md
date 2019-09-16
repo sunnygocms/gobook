@@ -98,7 +98,7 @@ func main() {
 有错误
 ![err](./err.jpg)
 
-仔细看程序，看到共里面有这么一行
+仔细看程序，看到程序里面有这么一行
 ```go
 js.Global().Get("document").Call("getElementById", "app").Set("innerText", time.Now().String())
 }
