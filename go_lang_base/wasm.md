@@ -25,7 +25,7 @@ func main() {
 单独的 wasm 文件是无法直接运行的,必须载入浏览器中.
 
     mkdir html
-    cp sunny.wasm test
+    cp sunny.wasm html
     cd html
     cp $GOROOT/misc/wasm/wasm_exec.{html,js} .
 
