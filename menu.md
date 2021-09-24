@@ -40,7 +40,6 @@
 &nbsp;&nbsp;[6. 3go的多态](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/06.3.md)<br />
 #### 9)Go难点
 &nbsp;&nbsp;[9.1 不得不知道的golang知识点之nil](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.1.md)<br />
-Golang json用法详解
 &nbsp;&nbsp;[9.2 两个比较有趣的GO知识点](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.2.md)<br />
 &nbsp;&nbsp;[9.3 Golang json用法详解](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.3.md)<br />
 &nbsp;&nbsp;[9.4 Go exec用法](https://github.com/sunnygocms/gobook/blob/master/go_lang_base/09.1.4.md)<br />
